@@ -2,7 +2,7 @@
 ---
 
 # BlueLily
-A High-Performance, Customizable Flight Computer for High-Powered Rocketry, Payloads, and CubeSats
+A High-Performance Sensing, Control, Communication and Realtime Logic Array, customizable for Robotics, Flight Computer, High-Powered Rocketry, Payloads, and CubeSats
 
 ### **Project Goal**
 BlueLily is designed as a **versatile flight computer** tailored for **high-powered rocketry**, **payloads**, and **CubeSats**. Its primary objectives are to:
