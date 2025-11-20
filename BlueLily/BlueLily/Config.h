@@ -139,3 +139,11 @@ const uint8_t ACTUATOR_COUNT =
 
 // FlightController Enable/Disable Flag
 #define ENABLE_FLIGHTCONTROLLER 1
+
+// ROS2 Bridge Enable/Disable Flag
+#define ENABLE_ROS2_BRIDGE 1
+
+// ROS2 Bridge Settings
+#if ENABLE_ROS2_BRIDGE
+#define ROS2_PUBLISH_RATE_MS 10  // 100Hz IMU publishing
+#endif
